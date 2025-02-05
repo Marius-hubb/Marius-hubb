@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Information Security Attackes</b>
-  - [Perform a Man-in-the-Middle (MITM) Attack using Cain & Abel](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Perform a Man-in-the-Middle (MITM) Attack using Cain & Abel](https://github.com/Marius-hubb/MITM-Attack)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
