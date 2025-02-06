@@ -4,7 +4,7 @@
 
 - <b>Information Security Attacks</b>
   - <a href="https://github.com/Marius-hubb/MITM-Attack" target="_blank">Man-in-the-Middle (MITM) Attack using Cain & Abel</a>
-  - <a href="https://github.com/Marius-hubb/Macof-Attack" target="_blank">MAC Flooding Attack using macof</a>
+  - <a href="https://github.com/Marius-hubb/MAC-Flooding-Attack" target="_blank">MAC Flooding Attack using macof</a>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a> <b><i>(Potentially NSFW)</i></b>
