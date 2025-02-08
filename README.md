@@ -5,7 +5,7 @@
 - <b>Information Security Attacks</b>
   - <a href="https://github.com/Marius-hubb/MITM-Attack" target="_blank">Man-in-the-Middle (MITM) Attack using Cain & Abel</a>
   - <a href="https://github.com/Marius-hubb/MAC-Flooding-Attack" target="_blank">MAC Flooding Attack using macof</a>
-  - <a href="https://github.com/Marius-hubb/DoS-Attack" target="_blank">DOS Attack using hping3</a>
+  - <a href="https://github.com/Marius-hubb/DoS-Attack" target="_blank">DoS Attack using hping3</a>
 
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
