@@ -14,7 +14,7 @@
 
 
 - <b>Network Security Assessment</b>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing a Vulnerability Assessment in a target system using Greenbone Openvas</a>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
 
 
 - <b>PowerShell</b>
