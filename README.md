@@ -10,12 +10,11 @@
   - <a href="https://github.com/Marius-hubb/John-the-Ripper" target="_blank">Audit System Passwords using John The Ripper</a>
   - <a href="https://github.com/Marius-hubb/Burp-Suite" target="_blank">Parameter Tampering using Burp Suite</a>
   - <a href="https://github.com/Marius-hubb/Social-Engineering-Toolkit" target="_blank">Credential Harvesting Attack using Social Engineering Toolkit</a>
-  - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing a Vulnerability Assessment in a target system using Greenbone Openvas</a>
   
 
 
 - <b>Network Security Assessment</b>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Vulnerability Assessment using OpenVas</a>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing a Vulnerability Assessment in a target system using Greenbone Openvas</a>
 
 
 - <b>PowerShell</b>
