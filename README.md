@@ -6,9 +6,9 @@
   - <a href="https://github.com/Marius-hubb/MITM-Attack" target="_blank">Man-in-the-Middle (MITM) Attack using Cain & Abel</a>
   - <a href="https://github.com/Marius-hubb/MAC-Flooding-Attack" target="_blank">MAC Flooding Attack using macof</a>
   - <a href="https://github.com/Marius-hubb/DoS-Attack" target="_blank">DoS Attack using hping3</a>
-  - <a href="https://github.com/Marius-hubb/SQL-Injection-Attack" target="_blank">SQL Injection Attack Against MSSQL to extract databases using sqlmap</a>
-  - <a href="https://github.com/Marius-hubb/John-the-Ripper" target="_blank">Audit System Passwords using John-the-Ripper</a>
-  - <a href="https://github.com/Marius-hubb/John-the-Ripper" target="_blank">Audit System Passwords using John-the-Ripper</a>
+  - <a href="https://github.com/Marius-hubb/SQL-Injection-Attack" target="_blank">SQL Injection Attack against MSSQL to extract databases using sqlmap</a>
+  - <a href="https://github.com/Marius-hubb/John-the-Ripper" target="_blank">Audit System Passwords using John The Ripper</a>
+  - <a href="https://github.com/Marius-hubb/Marius-hubb" target="_blank">Parameter Tampering using Burp Suite</a>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a> <b><i>(Potentially NSFW)</i></b>
