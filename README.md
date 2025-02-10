@@ -13,7 +13,7 @@
   
 - <b>Network Security Controls - Technical Controls</b>
     - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Host-based Firewall Protection with iptables
-    - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Host-based Firewall Functionality using Windows Firewall
+    - <a href="https://github.com/Marius-hubb/Windows-Firewall" target="_blank">Implementing Host-based Firewall Functionality using Windows Firewall
  
 </a>
 
