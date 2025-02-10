@@ -11,6 +11,9 @@
   - <a href="https://github.com/Marius-hubb/Burp-Suite" target="_blank">Parameter Tampering using Burp Suite</a>
   - <a href="https://github.com/Marius-hubb/Social-Engineering-Toolkit" target="_blank">Credential Harvesting Attack using Social Engineering Toolkit</a>
   
+- <b>Network Security Controls - Technical Controls</b>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Implementing Host-based Firewall Protection with iptables
+</a>
 
 
 - <b>Network Security Assessment</b>
