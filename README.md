@@ -13,7 +13,7 @@
 
 
 - <b>Network Security Assessment</b>
-  - <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a> <b><i>(Potentially NSFW)</i></b>
+  - <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Vulnerability Assessment using OpenVas</a> <b></b>
 
 - <b>PowerShell</b>
   - <a href="https://github.com/joshmadakor1/Sentinel-Lab" target="_blank">Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion</a>
