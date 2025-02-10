@@ -13,7 +13,7 @@
 
 
 - <b>Network Security Assessment</b>
-    - <a href="https://github.com/Marius-hubb/Social-Engineering-Toolkit" target="_blank">Vulnerability Assessment using OpenVas</a>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Vulnerability Assessment using OpenVas</a>
 
 
 - <b>PowerShell</b>
