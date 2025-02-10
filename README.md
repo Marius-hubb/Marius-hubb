@@ -12,7 +12,7 @@
   - <a href="https://github.com/Marius-hubb/Social-Engineering-Toolkit" target="_blank">Credential Harvesting Attack using Social Engineering Toolkit</a>
 
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Network Security Assessment</b>
   - <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a> <b><i>(Potentially NSFW)</i></b>
 
 - <b>PowerShell</b>
