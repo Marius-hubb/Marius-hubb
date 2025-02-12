@@ -17,31 +17,15 @@
     - <a href="https://github.com/Marius-hubb/pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall
     - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
     - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implement Host-based IDS functionality using Wazuh HIDS
-
-
  
 </a>
 
-
 - <b>Network Security Assessments</b>
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
 </a>
 
 
-- <b>PowerShell</b>
-  - <a href="https://github.com/joshmadakor1/Sentinel-Lab" target="_blank">Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion</a>
-  - <a href="https://github.com/joshmadakor1/Jwipe.PowerShell" target="_blank">JWipe (Disk Wiping Utility)</a>
-  - <a href="https://github.com/joshmadakor1/AD_PS" target="_blank">Active Directory Bulk User Creation</a>
-  - <a href="https://github.com/joshmadakor1/PowerShell-Integrity-FIM" target="_blank">FIM (File Integrity Monitor)</a>
-
-- <b>C# (.NET Desktop Applications)</b>
-  - <a href="https://github.com/joshmadakor1/EncrypterPOC" target="_blank">Ransomware Proof of Concept (Encrypter)</a>
-  - <a href="https://github.com/joshmadakor1/DecrypterPOC" target="_blank">Ransomware Proof of Concept (Decrypter)</a>
-  - <a href="https://github.com/joshmadakor1/Key-Logger-With-Email" target="_blank">Keylogger with Email Capability</a>
-
-- <b>Python</b>
-  - <a href="https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm" target="_blank">Package Delivery Application (Datastructures and Algorithms Demo)</a>
 
 <h2>📄 Certifications</h2>
 
