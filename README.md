@@ -16,7 +16,7 @@
     - <a href="https://github.com/Marius-hubb/Windows-Firewall" target="_blank">Implementation of Host-based Firewall Functionality using Windows Firewall
     - <a href="https://github.com/Marius-hubb/pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall
     - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
-    - <a href="https://https://github.com/Marius-hubb/Wazuh" target="_blank">Implement Host-based IDS functionality using Wazuh HIDS
+    - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implement Host-based IDS functionality using Wazuh HIDS
 
 
  
