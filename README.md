@@ -18,11 +18,15 @@
     - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
     - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implement Host-based IDS functionality using Wazuh HIDS
  
-</a>
 
 - <b>Network Security Assessments</b>
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+
+- <b>Network Traffic Monitoring</b>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Netwoirk Scanning to Identify Hosts in the Local Network</a>
+
+      
 </a>
 
 
