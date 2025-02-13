@@ -24,7 +24,7 @@
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
 
 - <b>Network Traffic Monitoring</b>
-    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Netwoirk Scanning to Identify Hosts in the Local Network</a>
+    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning to Identify Hosts in the Local Network</a>
 
       
 </a>
