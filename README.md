@@ -22,6 +22,10 @@
 - <b>Network Security Assessments</b>
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+     
+- <b>Application Security</b>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank"> Footprinting a Target Web Server using Various Footprinting Tools
+</a>
 
 - <b>Network Traffic Monitoring</b>
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning to Identify Hosts in the Local Network</a>
