@@ -28,7 +28,7 @@
 </a>
 
 - <b>Network Traffic Monitoring</b>
-    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning to Identify Hosts in the Local Network</a>
+    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Recon: Uncovering Hosts and Monitoring Traffic</a>
 
       
 </a>
