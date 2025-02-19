@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Network Traffic Monitoring</b>
+    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
+
 - <b>Information Security Attacks</b>
   - <a href="https://github.com/Marius-hubb/MITM-Attack" target="_blank">Man-in-the-Middle (MITM) Attack using Cain & Abel</a>
   - <a href="https://github.com/Marius-hubb/MAC-Flooding-Attack" target="_blank">MAC Flooding Attack using macof</a>
@@ -23,12 +26,7 @@
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
      
-- <b>Application Security</b>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank"> Footprinting a Target Web Server using Various Footprinting Tools
-</a>
 
-- <b>Network Traffic Monitoring</b>
-    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Recon: Uncovering Hosts and Monitoring Traffic</a>
 
       
 </a>
