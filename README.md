@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Traffic Monitoring</b>
-    - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
+    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
     
 - <b> Computer Forensics</b>
-    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Packet Capture Analysis in Wireshark</a>
+    - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Packet Capture Analysis in Wireshark</a>
 
 - <b>Information Security Attacks</b>
 
