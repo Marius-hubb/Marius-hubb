@@ -6,6 +6,8 @@
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
 
 - <b>Information Security Attacks</b>
+
+  - <a href="https://github.com/Marius-hubb/Backdoor-Attack" target="_blank">Backdoor Exploit using Metasploit</a>
   - <a href="https://github.com/Marius-hubb/MITM-Attack" target="_blank">Man-in-the-Middle (MITM) Attack using Cain & Abel</a>
   - <a href="https://github.com/Marius-hubb/MAC-Flooding-Attack" target="_blank">MAC Flooding Attack using macof</a>
   - <a href="https://github.com/Marius-hubb/DoS-Attack" target="_blank">DoS Attack using hping3</a>
