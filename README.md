@@ -6,6 +6,7 @@
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
     
 - <b> Computer Forensics</b>
+    - <a href="https://github.com/Marius-hubb/File-Carving" target="_blank">File Carving using Scalpel</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Packet Capture Analysis - Incident 1</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis2" target="_blank">Packet Capture Analysis - Incident 2</a>
 
