@@ -32,6 +32,11 @@
 - <b>Network Security Assessments</b>
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+
+- <b>Data Security</b>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
+</a>
+
      
 
 
