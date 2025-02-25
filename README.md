@@ -10,6 +10,10 @@
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Packet Capture Analysis - Incident 1</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis2" target="_blank">Packet Capture Analysis - Incident 2</a>
 
+- <b>Identification, Authentication, and Identification</b>
+    - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Implementing Access Controls in Windows Machine
+</a>
+
 - <b>Information Security Attacks</b>
 
   - <a href="https://github.com/Marius-hubb/Backdoor-Attack" target="_blank">Backdoor Exploit using Metasploit</a>
