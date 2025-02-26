@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Identification, Authentication, and Identification</b>
+    - <a href="https://github.com/Marius-hubb/Access-Control-Windows" target="_blank">Implementing Access Controls in Windows Machine
+    - <a href="https://github.com/Marius-hubb/Access-Control-Linux" target="_blank">Implementing Access Controls in Linux Machine
+    - <a href="https://github.com/Marius-hubb/Role-Based-Access-Control" target="_blank">Implementing Role-Based Access Controls in in Windows Admin Center (WAC)</a>
+
 - <b>Network Traffic Monitoring</b>
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
     
@@ -9,11 +14,6 @@
     - <a href="https://github.com/Marius-hubb/File-Carving" target="_blank">Data Carving using Scalpel</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Packet Capture Analysis - Incident 1</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis2" target="_blank">Packet Capture Analysis - Incident 2</a>
-
-- <b>Identification, Authentication, and Identification</b>
-    - <a href="https://github.com/Marius-hubb/Access-Control-Windows" target="_blank">Implementing Access Controls in Windows Machine
-    - <a href="https://github.com/Marius-hubb/Access-Control-Linux" target="_blank">Implementing Access Controls in Linux Machine
-</a>
 
 - <b>Information Security Attacks</b>
 
