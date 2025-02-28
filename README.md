@@ -11,8 +11,10 @@
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
 
-- <b>Network Traffic Monitoring</b>
-    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
+- <b>Network Security Controls - Administrative Controls</b>
+    - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Password Policies using Group Policy Management Console 
+    - <a href="https://github.com/Marius-hubb/Windows-Firewall" target="_blank">Implementation of Host-based Firewall Functionality using Windows Firewall
+    - <a href="https://github.com/Marius-hubb/pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall
 
 - <b>Network Security Controls - Technical Controls</b>
     - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Host-based Firewall Protection with iptables
@@ -21,7 +23,8 @@
     - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
     - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implementing Host-based IDS functionality using Wazuh HIDS
 
-
+- <b>Network Traffic Monitoring</b>
+    - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
 
 - <b> Computer Forensics</b>
     - <a href="https://github.com/Marius-hubb/File-Carving" target="_blank">Data Carving using Scalpel</a>
