@@ -7,6 +7,10 @@
     - <a href="https://github.com/Marius-hubb/Access-Control-Linux" target="_blank">Implementing Access Controls in Linux Machine
     - <a href="https://github.com/Marius-hubb/Role-Based-Access-Control" target="_blank">Implementing Role-Based Access Controls in in Windows Admin Center (WAC)</a>
 
+- <b>Network Security Assessments</b>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
+    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+
 - <b>Network Traffic Monitoring</b>
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
 
@@ -17,9 +21,7 @@
     - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
     - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implementing Host-based IDS functionality using Wazuh HIDS
 
-- <b>Network Security Assessments</b>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
-    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+
 
 - <b> Computer Forensics</b>
     - <a href="https://github.com/Marius-hubb/File-Carving" target="_blank">Data Carving using Scalpel</a>
