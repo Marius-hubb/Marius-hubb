@@ -12,7 +12,7 @@
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
 
 - <b>Network Security Controls - Administrative Controls</b>
-    - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Password Policies using Group Policy Management Console 
+    - <a href="https://github.com/Marius-hubb/Password-Policies" target="_blank">Implementing Password Policies using Group Policy Management Console 
     - <a href="https://github.com/Marius-hubb/Windows-Firewall" target="_blank">Implementation of Host-based Firewall Functionality using Windows Firewall
     - <a href="https://github.com/Marius-hubb/pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall
 
