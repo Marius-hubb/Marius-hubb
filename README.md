@@ -9,7 +9,18 @@
 
 - <b>Network Traffic Monitoring</b>
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
-    
+
+- <b>Network Security Controls - Technical Controls</b>
+    - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Host-based Firewall Protection with iptables
+    - <a href="https://github.com/Marius-hubb/Windows-Firewall" target="_blank">Implementation of Host-based Firewall Functionality using Windows Firewall
+    - <a href="https://github.com/Marius-hubb/pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall
+    - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
+    - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implementing Host-based IDS functionality using Wazuh HIDS
+
+- <b>Network Security Assessments</b>
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
+    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+
 - <b> Computer Forensics</b>
     - <a href="https://github.com/Marius-hubb/File-Carving" target="_blank">Data Carving using Scalpel</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Packet Capture Analysis - Incident 1</a>
@@ -26,17 +37,6 @@
   - <a href="https://github.com/Marius-hubb/Burp-Suite" target="_blank">Parameter Tampering using Burp Suite</a>
   - <a href="https://github.com/Marius-hubb/Social-Engineering-Toolkit" target="_blank">Credential Harvesting Attack using Social Engineering Toolkit</a>
   
-- <b>Network Security Controls - Technical Controls</b>
-    - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Host-based Firewall Protection with iptables
-    - <a href="https://github.com/Marius-hubb/Windows-Firewall" target="_blank">Implementation of Host-based Firewall Functionality using Windows Firewall
-    - <a href="https://github.com/Marius-hubb/pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall
-    - <a href="https://github.com/Marius-hubb/Port-Block-pfSense" target="_blank">Implementation of Network-Based Firewall Functionality - Blocking Insecure Ports using pfSense Firewall
-    - <a href="https://github.com/Marius-hubb/Wazuh" target="_blank">Implementing Host-based IDS functionality using Wazuh HIDS
- 
-
-- <b>Network Security Assessments</b>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
-    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
 
 - <b>Data Security</b>
     - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
