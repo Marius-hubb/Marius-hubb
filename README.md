@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Identification, Authentication, and Identification</b>
+- <b>Identification, Authentication, and Authorization</b>
     - <a href="https://github.com/Marius-hubb/Access-Control-Windows" target="_blank">Implementing Access Controls in Windows Machine
     - <a href="https://github.com/Marius-hubb/Access-Control-Linux" target="_blank">Implementing Access Controls in Linux Machine
     - <a href="https://github.com/Marius-hubb/Role-Based-Access-Control" target="_blank">Implementing Role-Based Access Controls in in Windows Admin Center (WAC)</a>
