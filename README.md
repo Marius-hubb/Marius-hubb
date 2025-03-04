@@ -44,6 +44,7 @@
 
 - <b>Data Security</b>
     - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
+    - <a href="https://github.com/Marius-hubb/VeraCrypt" target="_blank">Performing Disk Encryption using VeraCrypt
 </a>
 
      
