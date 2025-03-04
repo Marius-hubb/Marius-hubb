@@ -30,6 +30,12 @@
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis" target="_blank">Packet Capture Analysis - Incident 1</a>
     - <a href="https://github.com/Marius-hubb/Packet-Capture-Analysis2" target="_blank">Packet Capture Analysis - Incident 2</a>
 
+- <b>Data Security</b>
+    - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
+    - <a href="https://github.com/Marius-hubb/VeraCrypt" target="_blank">Using Encrypted Virtual Disk with VeraCrypt
+    - <a href="https://github.com/Marius-hubb/Encrypting-File-System-EFS-" target="_blank">Using Encrypted Virtual Disk with VeraCrypt
+</a>
+
 - <b>Information Security Attacks</b>
 
   - <a href="https://github.com/Marius-hubb/Backdoor-Attack" target="_blank">Backdoor Exploit using Metasploit</a>
@@ -42,11 +48,7 @@
   - <a href="https://github.com/Marius-hubb/Social-Engineering-Toolkit" target="_blank">Credential Harvesting Attack using Social Engineering Toolkit</a>
   
 
-- <b>Data Security</b>
-    - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
-    - <a href="https://github.com/Marius-hubb/VeraCrypt" target="_blank">Using Encrypted Virtual Disk with VeraCrypt
-    - <a href="https://github.com/Marius-hubb/Encrypting-File-System-EFS-" target="_blank">Using Encrypted Virtual Disk with VeraCrypt
-</a>
+
 
      
 
