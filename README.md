@@ -13,7 +13,7 @@
 
 - <b>Network Security Controls - Administrative Controls</b>
     - <a href="https://github.com/Marius-hubb/Password-Policies" target="_blank">Implementing Password Policies using Group Policy Management Console 
-    - <a href="https://github.com/Marius-hubb/Implementing-Auditing-Policies" target="_blank">Implementing Auditing Policies
+    - <a href="https://github.com/Marius-hubb/Implementing-Auditing-Policies" target="_blank">Implementing Auditing Policies using Group Policy Management Console
 
 - <b>Network Security Controls - Technical Controls</b>
     - <a href="https://github.com/Marius-hubb/IPTables" target="_blank">Implementing Host-based Firewall Protection with iptables
