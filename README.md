@@ -29,7 +29,7 @@
     - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
     - <a href="https://github.com/Marius-hubb/VeraCrypt" target="_blank">Using Encrypted Virtual Disk with VeraCrypt
     - <a href="https://github.com/Marius-hubb/Encrypting-File-System-EFS-" target="_blank">Implementing File System-Level Encryption on Windows
-    - <a href="https://github.com/Marius-hubb/Audit-Backup_Recovery" target="_blank">Auditing Data Backup & Recovery in Windows
+    - <a href="https://github.com/Marius-hubb/Audit-Backup_Recovery" target="_blank">Performing Data Backup using Genie Backup Manager
 </a>
 
 - <b> Computer Forensics</b>
