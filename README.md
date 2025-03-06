@@ -1,6 +1,6 @@
 <h1>Hi, I'm Marius! <br/><a href="https://www.linkedin.com/in/mariusstaimez/" target="_blank">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs:</h2>
 
 - <b>Identification, Authentication, and Authorization</b>
     - <a href="https://github.com/Marius-hubb/Access-Control-Windows" target="_blank">Implementing Access Controls in Windows Machine
@@ -24,7 +24,7 @@
 
 - <b>Network Traffic Monitoring</b>
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
-    - <a href="https://github.com/Marius-hubb/Network-Security-Auditing" target="_blank">Network Security Auditing using Command Line Utilities</a>
+    - <a href="https://github.com/Marius-hubb/Network-Security-Auditing" target="_blank">Network Troubleshooting using Command Line Utilities and Tools</a>
 
 - <b>Data Security</b>
     - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
