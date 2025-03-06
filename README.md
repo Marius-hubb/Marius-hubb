@@ -10,6 +10,10 @@
 - <b>Network Security Assessments</b>
     - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+ 
+- <b>Network Logs Monitoring and Analysis</b>
+    - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configure, View, and Analyze Windows Event Logs</a>
+
 
 - <b>Network Security Controls - Administrative Controls</b>
     - <a href="https://github.com/Marius-hubb/Password-Policies" target="_blank">Implementing Password Policies using Group Policy Management Console 
