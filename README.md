@@ -8,8 +8,8 @@
     - <a href="https://github.com/Marius-hubb/Role-Based-Access-Control" target="_blank">Implementing Role-Based Access Controls in in Windows Admin Center (WAC)</a>
 
 - <b>Network Security Assessments</b>
-    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Performing Vulnerability Assessment using Greenbone Openvas</a>
-    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
+    - <a href="https://github.com/Marius-hubb/OpenVas" target="_blank">Vulnerability Assessment using Greenbone Openvas</a>
+    - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Vulnerability Assessment using buck-security
  
 - <b>Network Logs Monitoring and Analysis</b>
     - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Windows Event Logs</a>
