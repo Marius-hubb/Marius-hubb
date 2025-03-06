@@ -14,7 +14,7 @@
 - <b>Network Logs Monitoring and Analysis</b>
     - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Windows Event Logs</a>
     - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Linux Event Logs</a>
-
+    - <a href="https://github.com/Marius-hubb/Audit-Backup_Recovery" target="_blank">Auditing Data Backup & Recovery in Windows 
 
 - <b>Network Security Controls - Administrative Controls</b>
     - <a href="https://github.com/Marius-hubb/Password-Policies" target="_blank">Implementing Password Policies using Group Policy Management Console 
@@ -35,7 +35,7 @@
     - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
     - <a href="https://github.com/Marius-hubb/VeraCrypt" target="_blank">Configuring Virtual Disk Encryption using VeraCrypt
     - <a href="https://github.com/Marius-hubb/Encrypting-File-System-EFS-" target="_blank">Implementing File System-Level Encryption in Windows
-    - <a href="https://github.com/Marius-hubb/Audit-Backup_Recovery" target="_blank">Auditing Data Backup & Recovery in Windows
+    
 </a>
 
 - <b> Computer Forensics</b>
