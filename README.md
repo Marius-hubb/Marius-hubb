@@ -68,11 +68,10 @@
 
 <h2>📄 Certifications</h2>
 
+- <a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/42608a52-46ed-4ad2-acd7-248482826313.png" target="_blank">EC Council Certified  Cybersecurity Technician</a>
 - <a href="https://www.credly.com/badges/c90e5e19-85ea-483d-8319-b0982b0d5294/linked_in_profile" target="_blank">CompTIA Security+</a>
-- <a href="https://www.youtube.com/watch?v=uHy3oM7NnoU" target="_blank">A Day in the Life of a Cybersecurity Analyst</a>
-- <a href="https://www.youtube.com/watch?v=N-L9hklSlNk" target="_blank">How to Create a KeyLogger (C#)</a>
-- <a href="https://www.youtube.com/watch?v=OfvdQeh79s0" target="_blank">Ransomware Demonstration (C#)</a>
-- <a href="https://www.youtube.com/watch?v=E2MwRWxDBkA" target="_blank">Is WGU Legit?</a>
+- <a href="https://user-resources.nexgent.com/74002/certifications/2/1733876641314.pdf" target="_blank">NGT Cyber Security Associate</a>
+- <a href="https://user-resources.nexgent.com/74002/certifications/1/1724510859634.pdf" target="_blank">Full Stack Network Associate</a>
 
 <h2>🤝 Connect with me:</h2>
 
