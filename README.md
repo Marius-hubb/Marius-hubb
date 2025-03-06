@@ -12,7 +12,8 @@
     - <a href="https://github.com/Marius-hubb/buck-security" target="_blank">Conduct Security Checks on a Linux Machine using buck-security
  
 - <b>Network Logs Monitoring and Analysis</b>
-    - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configure, View, and Analyze Windows Event Logs</a>
+    - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Windows Event Logs</a>
+    - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Linux Event Logs</a>
 
 
 - <b>Network Security Controls - Administrative Controls</b>
