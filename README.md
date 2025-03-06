@@ -13,7 +13,7 @@
  
 - <b>Network Logs Monitoring and Analysis</b>
     - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Windows Event Logs</a>
-    - <a href="https://github.com/Marius-hubb/Windows-Event-Logs" target="_blank">Configuration and Analysis of Linux Event Logs</a>
+    - <a href="https://github.com/Marius-hubb/Linux-Event-Logs" target="_blank">Configuration and Analysis of Linux Event Logs</a>
     - <a href="https://github.com/Marius-hubb/Audit-Backup_Recovery" target="_blank">Auditing Data Backup & Recovery in Windows 
 
 - <b>Network Security Controls - Administrative Controls</b>
