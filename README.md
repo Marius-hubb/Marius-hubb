@@ -25,6 +25,7 @@
 - <b>Network Traffic Monitoring</b>
     - <a href="https://github.com/Marius-hubb/Network-Scanning" target="_blank">Network Scanning & Fingerprinting: Uncovering Hosts and Monitoring Traffic</a>
     - <a href="https://github.com/Marius-hubb/Network-Security-Auditing" target="_blank">Network Troubleshooting using Command Line Utilities and Tools</a>
+    - <a href="https://github.com/Marius-hubb/Network-Troubleshooting-hping3" target="_blank">Network Troubleshooting using Hping3</a>
 
 - <b>Data Security</b>
     - <a href="https://github.com/Marius-hubb/Bitlocker" target="_blank">Performing Disk Encryption using BitLocker Drive Encryption
