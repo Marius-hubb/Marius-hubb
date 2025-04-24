@@ -68,6 +68,7 @@
 
 <h2>📄 Certifications</h2>
 
+- <a href="https://www.credly.com/badges/2be1e9d8-f246-4f5f-9bec-2d26fd2e6007/public_url">PECB ISO/IEC 27001 Provisional Auditor</a>
 - <a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/42608a52-46ed-4ad2-acd7-248482826313.png" target="_blank">EC Council Certified  Cybersecurity Technician</a>
 - <a href="https://www.credly.com/badges/c90e5e19-85ea-483d-8319-b0982b0d5294/linked_in_profile" target="_blank">CompTIA Security+</a>
 - <a href="https://user-resources.nexgent.com/74002/certifications/2/1733876641314.pdf" target="_blank">NGT Cyber Security Associate</a>
