@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marius! <br/><a href="https://www.linkedin.com/in/mariusstaimez/" target="_blank">ISO 27001 Provisional Auditor</a></h1>
+<h1>Hi, I'm Marius! <br/><a href="https://www.linkedin.com/in/mariusstaimez/" target="_blank">ISO/IEC 27001 Provisional Auditor</a></h1>
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 
